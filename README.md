@@ -13,9 +13,9 @@ Distorzija (eng. distortion) je najstariji audio efekt za električnu gitaru dat
 
 ## User Interface
 ### Design
-![gui](https://user-images.githubusercontent.com/29998991/67144687-a550a080-f279-11e9-99aa-e45e044b2035.jpg)
+![gui](https://user-images.githubusercontent.com/29998991/67144687-a550a080-f279-11e9-99aa-e45e044b2035.jpg)  
 *1. VST Design*
 ### Inside Cubase 5
-![gui-cubase](https://user-images.githubusercontent.com/29998991/67144691-bb5e6100-f279-11e9-8c09-db5e4391ae32.png)
+![gui-cubase](https://user-images.githubusercontent.com/29998991/67144691-bb5e6100-f279-11e9-8c09-db5e4391ae32.png)  
 *2. Kodiak Preamp VST running inside Cubase 5*
 
