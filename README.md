@@ -13,13 +13,15 @@ Distorzija (eng. distortion) je najstariji audio efekt za električnu gitaru dat
 
 ## Characteristic function
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=f%28x%2C%20%20%5Calpha%20%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="f(x,  \alpha )" width="57" height="19" />
+<img src="http://bit.ly/33GhHd8" align="center" border="0" alt="f(x,  \alpha ) = 2/ \Pi * tan^-^1(x)* \alpha " width="240" height="22" />
+![graph](https://user-images.githubusercontent.com/29998991/67157109-c8398e00-f327-11e9-8c99-073090e4c756.png)
+*(1. Characteristic curve)*
 
 ## User Interface
 ### Design
 ![gui](https://user-images.githubusercontent.com/29998991/67144687-a550a080-f279-11e9-99aa-e45e044b2035.jpg)  
-*(1. VST Design)*
+*(2. VST Design)*
 ### Inside Cubase 5
 ![gui-cubase](https://user-images.githubusercontent.com/29998991/67144691-bb5e6100-f279-11e9-8c09-db5e4391ae32.png)  
-*(2. Kodiak Preamp VST running inside Cubase 5)*
+*(3. Kodiak Preamp VST running inside Cubase 5)*
 
