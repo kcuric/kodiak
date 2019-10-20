@@ -13,7 +13,7 @@ Distorzija (eng. distortion) je najstariji audio efekt za električnu gitaru dat
 
 ## Characteristic function
 
-f(x,  \alpha )
+<img src="http://www.sciweavers.org/tex2img.php?eq=f%28x%2C%20%20%5Calpha%20%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="f(x,  \alpha )" width="57" height="19" />
 
 ## User Interface
 ### Design
