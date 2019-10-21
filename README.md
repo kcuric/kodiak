@@ -17,10 +17,10 @@ Distorzija (eng. distortion) je najstariji audio efekt za električnu gitaru dat
 Given a characteristic function as well as it's belonging curve accurately represent the implemented distortion type of the Kodiak distortion/preamp plugin.
 
 🇭🇷 CRO:
-Priložena karakteristična funckija kao i njezina pripadajuća reprezentacija grafom zorno predočuju implementirani tip distorzije unutar proširenja Kodiak (distorzija/predpojačalo).
-\\
+Priložena karakteristična funckija kao i njezina pripadajuća reprezentacija grafom zorno predočuju implementirani tip distorzije unutar proširenja Kodiak (distorzija/predpojačalo).  
+
 <img src="http://bit.ly/33GhHd8" align="center" border="0" alt="f(x,  \alpha ) = 2/ \Pi * tan^-^1(x)* \alpha " width="240" height="22" />
-\\
+
 ![graph](https://user-images.githubusercontent.com/29998991/67157109-c8398e00-f327-11e9-8c99-073090e4c756.png)
 
 *(1. Characteristic curve)*
